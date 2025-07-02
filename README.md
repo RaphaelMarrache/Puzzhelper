@@ -134,7 +134,7 @@ This screen allows uploading the full puzzle image and loose pieces for regional
 This debug view shows how each puzzle piece is analyzed: edges segmented, classified, and color-coded as `Tab`, `Blank`, or `Flat`.
 
 <p align="center">
-  <img src="static/screenshots/edge_classification_result (1).jpg" alt="Shape Upload UI" width="600"/>
+  <img src="static/screenshots/edge_classification_result.jpg" alt="Shape Upload UI" width="600"/>
 </p>
 
 
