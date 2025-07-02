@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/screenshots/logo(1).png" alt="Puzzle Logo" width="400"/>
+  <img src="static/screenshots/logo (1).png" alt="Puzzle Logo" width="400"/>
 </p>
 
 A web application that lets you classify jigsaw puzzle pieces either by their geometric shape (tabs/blanks/flats) or by matching each piece to a colored region in the reference image using state-of-the-art panoptic segmentation (Mask2Former) and OpenAI vision reasoning.
@@ -114,7 +114,7 @@ Server runs at [http://localhost:5000](http://localhost:5000). Navigate to `/sel
 This screen allows uploading puzzle pieces for shape-based analysis.
 
 <p align="center">
-  <img src="static/screenshots/by_shape(1).jpg" alt="Shape Upload UI" width="600"/>
+  <img src="static/screenshots/by_shape (1).jpg" alt="Shape Upload UI" width="600"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ This screen allows uploading puzzle pieces for shape-based analysis.
 This screen allows uploading the full puzzle image and loose pieces for regional matching.
 
 <p align="center">
-  <img src="static/screenshots/by_area(1).jpg" alt="Shape Upload UI" width="600"/>
+  <img src="static/screenshots/by_area (1).jpg" alt="Shape Upload UI" width="600"/>
 </p>
 
 ---
@@ -134,7 +134,7 @@ This screen allows uploading the full puzzle image and loose pieces for regional
 This debug view shows how each puzzle piece is analyzed: edges segmented, classified, and color-coded as `Tab`, `Blank`, or `Flat`.
 
 <p align="center">
-  <img src="static/screenshots/edge_classification_result(1).jpg" alt="Shape Upload UI" width="600"/>
+  <img src="static/screenshots/edge_classification_result (1).jpg" alt="Shape Upload UI" width="600"/>
 </p>
 
 
